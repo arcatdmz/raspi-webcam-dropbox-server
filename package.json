@@ -1,0 +1,23 @@
+{
+  "name": "raspi-webcam-dropbox-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcatdmz/raspi-webcam-dropbox-server.git"
+  },
+  "author": "Jun Kato <i@junkato.jp>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arcatdmz/raspi-webcam-dropbox-server/issues"
+  },
+  "homepage": "https://github.com/arcatdmz/raspi-webcam-dropbox-server#readme",
+  "dependencies": {
+    "datejs": "^1.0.0-rc3",
+    "dropbox": "^2.5.12"
+  }
+}

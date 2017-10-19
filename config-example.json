@@ -1,0 +1,6 @@
+{
+  "accessToken": "your dropbox token",
+  "port": 8080,
+  "directory": "/home/your account/Pictures/Webcam",
+  "fileName": "yyyy-MM-dd HH-mm-ss.jpg"
+}
